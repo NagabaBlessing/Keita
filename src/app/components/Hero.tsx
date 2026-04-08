@@ -1,3 +1,4 @@
+import React from 'react';
 import { ChevronDown, CheckCircle, ArrowRight } from 'lucide-react';
 import { Link } from 'react-router';
 

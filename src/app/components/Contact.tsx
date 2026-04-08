@@ -1,3 +1,4 @@
+import React from 'react';
 import { MapPin, Phone, Mail, Globe } from 'lucide-react';
 
 export function Contact() {

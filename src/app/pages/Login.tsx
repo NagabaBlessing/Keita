@@ -1,7 +1,8 @@
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router';
 import { Mail, Lock, ArrowRight } from 'lucide-react';
-import logo from 'figma:asset/c799f3b2697899c218f2aac526df0d48ec9e8449.png';
+import logo from '@/assets/Keitalogofinal.png';
+import React from 'react';
 
 export function Login() {
   const navigate = useNavigate();

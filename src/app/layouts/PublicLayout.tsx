@@ -1,6 +1,7 @@
+import React from 'react'; // Import React
 import { Outlet, Link } from 'react-router';
 import { Mail, Phone, MapPin } from 'lucide-react';
-import logo from 'figma:asset/c799f3b2697899c218f2aac526df0d48ec9e8449.png';
+import logo from '@/assets/Keitalogofinal.png'; // Ensure the path is correct
 import { ThemeToggle } from '../components/ThemeToggle';
 
 export function PublicLayout() {

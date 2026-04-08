@@ -1,3 +1,4 @@
+import React from 'react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from './ui/carousel';
 

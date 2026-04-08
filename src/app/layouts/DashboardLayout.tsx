@@ -1,6 +1,7 @@
+import React from 'react'; 
 import { Outlet, Link, useLocation, useNavigate } from 'react-router';
 import { LayoutDashboard, FileText, History, User, LogOut } from 'lucide-react';
-import logo from 'figma:asset/c799f3b2697899c218f2aac526df0d48ec9e8449.png';
+import logo from '@/assets/Keitalogofinal.png';
 import { ThemeToggle } from '../components/ThemeToggle';
 
 export function DashboardLayout() {

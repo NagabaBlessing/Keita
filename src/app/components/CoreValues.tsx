@@ -1,3 +1,4 @@
+import React from 'react';
 import { Shield, Award, Clock, Users, Heart } from 'lucide-react';
 
 export function CoreValues() {
